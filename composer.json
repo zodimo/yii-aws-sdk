@@ -14,10 +14,5 @@
   "require": {
     "php": ">=5.5",
     "aws/aws-sdk-php": "~3"
-  },
-  "autoload": {
-    "psr-4": {
-      "zodimo": "src/"
-    }
   }
 }
