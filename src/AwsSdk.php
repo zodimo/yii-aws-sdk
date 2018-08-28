@@ -7,7 +7,7 @@
  * Time: 6:08 AM
  */
 
-namespace zodimo\yii\aws\sdk;
+namespace zodimo;
 use Aws\Sdk;
 
 /**
