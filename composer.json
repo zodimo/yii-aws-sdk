@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "zodimo\\yii\\aws\\sdk\\": "src/"
+      "zodimo": "src/"
     }
   }
 }
