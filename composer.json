@@ -1,8 +1,8 @@
 {
   "name": "zodimo/yii-aws-sdk",
   "type": "yii-component",
-  "description": "An AWS Wrapper ",
-  "keywords": ["yii", "aws", "yii-aws-sdk"],
+  "description": "An AWS SDK Wrapper ",
+  "keywords": ["yii", "aws", "yii-aws-sdk", "aws-sdk-php", "aws-sdk-php 3"],
   "homepage": "https://github.com/zodimo/yii-aws-sdk",
   "license": "MIT",
   "authors": [
