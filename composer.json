@@ -11,9 +11,6 @@
       "email": "zodimo@gmail.com"
     }
   ],
-  "support": {
-    "issues": "https://github.com/zodimo/yii-aws-sdk/issues?state=open"
-  },
   "require": {
     "php": ">=5.5",
     "aws/aws-sdk-php": "~3"
