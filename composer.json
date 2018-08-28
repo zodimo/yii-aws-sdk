@@ -1,0 +1,27 @@
+{
+  "name": "zodimo/yii-aws-sdk",
+  "type": "yii-component",
+  "description": "An AWS Wrapper ",
+  "keywords": ["yii", "aws", "yii-aws-sdk"],
+  "homepage": "https://github.com/zodimo/yii-aws-sdk",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jaco Labuschagne",
+      "email": "zodimo@gmail.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/zodimo/yii-aws-s3/issues?state=open"
+  },
+  "require": {
+    "php": ">=7.0.0",
+    "yiisoft/yii": "1.1.19",
+    "aws/aws-sdk-php": "~3"
+  },
+  "autoload": {
+    "psr-4": {
+      "zodimo\\yii\\aws\\sdk\\": "src/"
+    }
+  }
+}

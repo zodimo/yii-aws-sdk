@@ -1,2 +1,2 @@
 # yii-aws-sdk
-aws sdk for yii 1.1
+aws sdk wrapper for yii 1.1
