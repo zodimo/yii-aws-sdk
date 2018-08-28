@@ -12,11 +12,10 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/zodimo/yii-aws-s3/issues?state=open"
+    "issues": "https://github.com/zodimo/yii-aws-sdk/issues?state=open"
   },
   "require": {
-    "php": ">=7.0.0",
-    "yiisoft/yii": "1.1.19",
+    "php": ">=5.5",
     "aws/aws-sdk-php": "~3"
   },
   "autoload": {
