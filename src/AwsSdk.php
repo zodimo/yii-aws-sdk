@@ -588,7 +588,7 @@ use Aws\Sdk;
  * @method null setXRayConfig(array $args = [])
  * @method null setMultiRegionXRayConfig(array $args = [])
  */
-class AwsSdk extends CComponent
+class AwsSdk extends \CComponent
 {
     /** @var array  */
     private $_defaultSharedConfig=array(
